@@ -21,7 +21,7 @@
         <br>
 
         <div id=Imagem>
-            <img src="../Imagens/requeijao nestle.png" alt="Requeijao" 
+            <img src="./Imagens/requeijao nestle.png" alt="Requeijao" 
                 align="center" width="220px"/>
                 <p><b>Requeijao cremoso Nestle 300Gr</b></p>
 
@@ -34,7 +34,7 @@
         </div>
         
         <div id=Imagem>
-            <img src="../Imagens/feijao vasconcelos.png" alt="Feijão" 
+            <img src="./Imagens/feijao vasconcelos.png" alt="Feijão" 
                 align="center" width="180px"/>
                 <p><b>Feijão carioca Vasconcelos 1Kg</b></p>
 
@@ -47,7 +47,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/cerveja subzero.png" alt="Cerveja" 
+            <img src="./Imagens/cerveja subzero.png" alt="Cerveja" 
                 align="center" width="170px"/>
                 <p><b>Cerveja lata SubZero 300 Ml</b></p>
 
@@ -60,7 +60,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/leite jussara.png" alt="Leite" 
+            <img src="./Imagens/leite jussara.png" alt="Leite" 
                 align="center" width="240px"/>
                 <p><b>Leite integral Jussara 1Lt</b></p>
 
@@ -73,7 +73,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/oleo soya.png" alt="Oleo" 
+            <img src="./Imagens/oleo soya.png" alt="Oleo" 
                 align="center" width="200px"/>
                 <p><b>Oleo de Soja Soya 1Lt</b></p>
 
@@ -86,7 +86,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/papel neve.png" alt="Papel" 
+            <img src="./Imagens/papel neve.png" alt="Papel" 
                 align="center" width="200px"/>
                 <p><b>Papel Higienico Neve L12 P11</b></p>
 
@@ -99,7 +99,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/kit dove.png" alt="Sabonete" 
+            <img src="./Imagens/kit dove.png" alt="Sabonete" 
                 align="center" width="220px"/>
                 <p><b>Kit Sabonete Dove c/6 unidades</b></p>
 
@@ -112,7 +112,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/Amac ype 5lt.png" alt="Amaciante" 
+            <img src="./Imagens/Amac ype 5lt.png" alt="Amaciante" 
                 align="center" width="210px"/>
                 <p><b>Amaciante Baby Soft 5Lt</b></p>
 
@@ -125,7 +125,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/cafe utam1png.png" alt="Café" 
+            <img src="./Imagens/cafe utam1png.png" alt="Café" 
                 align="center" width="370px"/>
                 <p><b>Café Utam Tradicional 500gr</b></p>
 
@@ -138,7 +138,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/arroz pop.png" alt="Arroz" 
+            <img src="./Imagens/arroz pop.png" alt="Arroz" 
                 align="center" width="330px"/>
                 <p><b>Arroz Tipo1 Pop 5kg </b></p>
 
@@ -151,7 +151,7 @@
         </div>
 
         <div id=Imagem>
-            <img src="../Imagens/macarrao renata.png" alt="Macarrão" 
+            <img src="./Imagens/macarrao renata.png" alt="Macarrão" 
                 align="center" width="330px"/>
                 <p><b>Macarrão Renata c/ovos 500gr </b></p>
 
